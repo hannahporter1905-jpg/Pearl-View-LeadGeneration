@@ -1,0 +1,13 @@
+# Secrets & credentials
+.env
+dashboard/config.js
+
+# Temp files
+.tmp/
+
+# Nested git repo (separate repository)
+Pearl-View-LeadGeneration/
+
+# OS
+.DS_Store
+Thumbs.db
