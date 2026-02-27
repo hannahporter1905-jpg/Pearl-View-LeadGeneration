@@ -2,8 +2,8 @@
 .env
 dashboard/config.js
 
-# Temp files
-.tmp/
+# Screenshots (always deleted after use)
+.tmp/screenshots/
 
 # Nested git repo (separate repository)
 Pearl-View-LeadGeneration/
